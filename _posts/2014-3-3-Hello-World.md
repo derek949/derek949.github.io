@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 8/30/15
 ---
 
