@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 8/30/15
 
