@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 8/30/15
 ---
-
+8/30/15
 What I got from the first week of classes was that this class is going to be a lot of learning and hard work. Not having seen/done C++ before, having to learn it and transition from Java will be a fun yet challenging experience. First off, I really like the fact that Downing has a ban on electronics and makes the lectures really interactive, it not only helps me stay focused but also encourages me to really pay attention to the lectures. Unlike other computer science courses I have taken, he doesn’t really lecture from slides, that’s a huge plus to me because I have always found that having a professor reading off slides is fairly pointless. Although I enjoy his form of lecturing, I’m not too excited about him calling on people randomly to answer questions, it puts people into a high pressure situation and makes it harder to think about the answers. I also really like the concept of having blogs, it’s nice to see and read how everyone else thinks about the class and how everyone else is doing in terms of following the lectures and understanding the material. My previous experience with classes is that many people do become confused and fall behind but no one really wants to admit it or no one really talks about it, so blogging can help people express how they feel they are doing in the class and share their ways of understanding the course materials. Overall, I think this class is going to be a huge learning experience and definitely will have its challenges. 
